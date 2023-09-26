@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body {
+  font-family: sans-serif;
+}
+
+.header-inner {
+  max-width: 1200px;
+  height: 110px;
+}
+
+.header-logo img {
+  color: black;
+  display: block;
+  width: 170px;
+}
